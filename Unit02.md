@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO303: Neurobiology"
+course_description: "A detailed survey of the anatomy and physiology of the nervous system, including the central and peripheral nervous system divisions and their neurons and supporting cells, with special emphasis on the brain, electrochemical signaling, and neurotransmitters."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Electrical Signaling** <span id="2"></span> 
 *Our nervous system is amazingly responsive and powerful when reacting
 to information about the body and its environment. If you touch a very

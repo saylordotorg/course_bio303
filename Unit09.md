@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO303: Neurobiology"
+course_description: "A detailed survey of the anatomy and physiology of the nervous system, including the central and peripheral nervous system divisions and their neurons and supporting cells, with special emphasis on the brain, electrochemical signaling, and neurotransmitters."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Motor Systems** <span id="9"></span> 
 *We will now focus on motor systems. Much of our motor control takes
 place through nerve-to-muscle signaling in the form of the neuromuscular

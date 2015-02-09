@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO303: Neurobiology"
+course_description: "A detailed survey of the anatomy and physiology of the nervous system, including the central and peripheral nervous system divisions and their neurons and supporting cells, with special emphasis on the brain, electrochemical signaling, and neurotransmitters."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Neural Plasticity and Repair** <span id="4"></span> 
 *Plasticity is the process by which neurons change and connect as a
 result of new experiences. It is most evident in infancy and childhood,

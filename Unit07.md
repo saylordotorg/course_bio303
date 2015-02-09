@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO303: Neurobiology"
+course_description: "A detailed survey of the anatomy and physiology of the nervous system, including the central and peripheral nervous system divisions and their neurons and supporting cells, with special emphasis on the brain, electrochemical signaling, and neurotransmitters."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Somatic Sensory System** <span id="7"></span> 
 *We will now begin looking at global neural systems. We will begin with
 the somatic sensory system, which detects physical stimuli such as

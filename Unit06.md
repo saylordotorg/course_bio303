@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO303: Neurobiology"
+course_description: "A detailed survey of the anatomy and physiology of the nervous system, including the central and peripheral nervous system divisions and their neurons and supporting cells, with special emphasis on the brain, electrochemical signaling, and neurotransmitters."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Neuroanatomy** <span id="6"></span> 
 *During development, various levels of organization are built into cells
 in order to create structure and order. This unit will introduce the

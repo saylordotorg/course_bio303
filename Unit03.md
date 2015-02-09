@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO303: Neurobiology"
+course_description: "A detailed survey of the anatomy and physiology of the nervous system, including the central and peripheral nervous system divisions and their neurons and supporting cells, with special emphasis on the brain, electrochemical signaling, and neurotransmitters."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Synapses and Neurotransmitters** <span id="3"></span> 
 *Returning to our example of heat sensation and the reflexes it elicits,
 we will now look at synapses and neurotransmitters. Synapses are the

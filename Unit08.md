@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO303: Neurobiology"
+course_description: "A detailed survey of the anatomy and physiology of the nervous system, including the central and peripheral nervous system divisions and their neurons and supporting cells, with special emphasis on the brain, electrochemical signaling, and neurotransmitters."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Special Senses** <span id="8"></span> 
 *This unit will cover all of our special senses. While you may know the
 four common ones (sight, smell, taste, hearing), you may not be familiar

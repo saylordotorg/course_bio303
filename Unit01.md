@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO303: Neurobiology"
+course_description: "A detailed survey of the anatomy and physiology of the nervous system, including the central and peripheral nervous system divisions and their neurons and supporting cells, with special emphasis on the brain, electrochemical signaling, and neurotransmitters."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Basic Concepts and Introduction** <span id="1"></span> 
 **In our first unit of neurobiology, we will review some of the
 fundamental concepts of chemistry and biology that you will need to know
