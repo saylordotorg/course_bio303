@@ -145,3 +145,4 @@ hours) on Tuesday night; etc.
 - [Unit 9](https://legacy.saylor.org/bio303/Unit09/)
 - [Unit 10](https://legacy.saylor.org/bio303/Unit10/)
 - [Unit 11](https://legacy.saylor.org/bio303/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO303/BIO303-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO303/BIO303-FinalExam-Answers.html)
