@@ -538,12 +538,12 @@ id="8.4.5"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 8 Quiz”**
     Link: The Saylor Foundation’s [“Unit 8
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2012/04/BIO303-Unit-8-Quiz-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/04/BIO303-Unit-8-Quiz-FINAL.pdf)
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/BIO303-Unit-8-Quiz-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/BIO303-Unit-8-Quiz-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete the entire assessment. You can check your
     answers with The Saylor Foundation’s [“Unit 8 Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/04/BIO303-OC-Unit-8-Quiz-Answer-Key-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/04/BIO303-OC-Unit-8-Quiz-Answer-Key-FINAL.pdf)
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/04/BIO303-OC-Unit-8-Quiz-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/BIO303-OC-Unit-8-Quiz-Answer-Key-FINAL.pdf)
     (PDF).
 
 

@@ -364,14 +364,14 @@ id="5.5.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 5 Assessment”**
     Link: The Saylor Foundation’s [“Unit 5
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-OC-Unit-5-Quiz-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-OC-Unit-5-Quiz-FINAL.pdf)
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-OC-Unit-5-Quiz-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-OC-Unit-5-Quiz-FINAL.pdf)
     (PDF)  
       
      Instructions: Complete this quiz after working through Unit 5. The
     questions are either multiple choice, matching, or labeling
     diagrams. Your answers can be checked against The Saylor
     Foundation’s [“]()[Unit 5 Assessment Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-OC-Unit-5-Quiz-Answer-Key-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-OC-Unit-5-Quiz-Answer-Key-FINAL.pdf)
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-OC-Unit-5-Quiz-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-OC-Unit-5-Quiz-Answer-Key-FINAL.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 30 minutes.

@@ -245,14 +245,14 @@ id="1.1.1"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 1 Assessment”**
     Link: The Saylor Foundation’s [“Unit 1
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-Unit-1-Quiz-FINAL.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-1-Quiz-FINAL.pdf)
     (PDF)  
       
      Instructions: Complete this quiz after working through Unit 1. The
     questions are multiple choice, matching, or labeling diagrams. You
     can check your answers with The Saylor Foundation’s [“Unit 1
     Assessment Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-Unit-1-Quiz-Answer-Key-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-1-Quiz-Answer-Key-FINAL.pdf)
     (PDF).
 
 
