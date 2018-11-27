@@ -153,7 +153,7 @@ to:    
 
 -   **Reading: The Saylor Foundation’s “Wallerian Degeneration”**
     Link: The Saylor Foundation’s [“Wallerian
-    Degeneration](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO303-4.3.2-WallerianDegeneration-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO303-4.3.2-WallerianDegeneration-FINAL.pdf)
+    Degeneration](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO303-4.3.2-WallerianDegeneration-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO303-4.3.2-WallerianDegeneration-FINAL.pdf)
     (PDF)  
         
      Instructions: Download the reading linked above. Make sure to pay
@@ -162,7 +162,7 @@ to:    
 **4.3.3 Retrograde Degeneration** <span id="4.3.3"></span> 
 -   **Reading: The Saylor Foundation’s “Retrograde Degeneration”**
     Link: The Saylor Foundation’s [“Retrograde
-    Degeneration](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO303-4.3.3-RetrogradeDegeneration-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO303-4.3.3-RetrogradeDegeneration-FINAL.pdf)
+    Degeneration](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO303-4.3.3-RetrogradeDegeneration-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO303-4.3.3-RetrogradeDegeneration-FINAL.pdf)
     (PDF)  
         
      Instructions: Download the reading linked above. Make sure to pay
@@ -250,14 +250,14 @@ to:    
 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Assessment”**
     Link: The Saylor Foundation's [“Unit 4
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-Unit-4-Quiz.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-Unit-4-Quiz.FINAL_.pdf)
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-4-Quiz.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-4-Quiz.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete this quiz after working through Unit 3. The
     questions are either multiple choice, matching, or labeling
     diagrams. Your answers can be checked against The Saylor
     Foundation's [“Unit 4 Assessment Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-Unit-4-Answer-Key.FINAL_.pdf) (PDF).
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-4-Answer-Key.FINAL_.pdf) (PDF).
     This assessment will take roughly 30 minutes to complete.
 
 

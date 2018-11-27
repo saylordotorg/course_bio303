@@ -498,14 +498,14 @@ id="2.3.6"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 2 Assessment”**
     Link: The Saylor Foundation’s [“Unit 2
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-Unit-2-Quiz-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-Unit-2-Quiz-FINAL.pdf)
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-2-Quiz-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-2-Quiz-FINAL.pdf)
     (PDF)  
       
      Instructions: Complete this quiz after working through Unit 2. The
     questions are multiple choice, matching, or labeling diagrams. You
     can check your answers with The Saylor Foundation’s [“Unit 2
     Assessment Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-Unit-2-Quiz-Answer-Key-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/03/BIO303-Unit-2-Quiz-Answer-Key-FINAL.pdf)
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-2-Quiz-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-2-Quiz-Answer-Key-FINAL.pdf)
     (PDF).
 
 

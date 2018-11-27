@@ -535,14 +535,14 @@ id="10.6.4"></span> 
 **10.6.6 Alzheimer’s Disease** <span id="10.6.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 10 Assessment”**
     Link: The Saylor Foundation’s [“Unit 10
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/05/BIO303-OC-Unit-10-Quiz-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/05/BIO303-OC-Unit-10-Quiz-FINAL.pdf)
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO303-OC-Unit-10-Quiz-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO303-OC-Unit-10-Quiz-FINAL.pdf)
     (PDF)  
       
      Instructions: Complete this quiz after working through Unit 10. The
     questions are either multiple choice, matching, or labeling
     diagrams. You can check your answers with the Saylor Foundation’s
     [“Unit 10 Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/05/BIO303-OC-Unit-10-Quiz-Answer-Key-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/05/BIO303-OC-Unit-10-Quiz-Answer-Key-FINAL.pdf)
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO303-OC-Unit-10-Quiz-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO303-OC-Unit-10-Quiz-Answer-Key-FINAL.pdf)
     (PDF).
 
 -   **Lecture: Howard Hughes Medical Institute: Neuroscience Lecture
