@@ -430,14 +430,14 @@ id="3.3.6"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 3 Assessment”**
     Link: The Saylor Foundation’s [“Unit 3
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-3-Quiz.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-3-Quiz.FINAL_.pdf)
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/BIO303-Unit-3-Quiz.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/BIO303-Unit-3-Quiz.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete this quiz after working through Unit 3. The
     questions are either multiple choice, matching, or labeling
     diagrams. Your answers can be checked against The Saylor
     Foundation’s [“]()[Unit 3 Assessment Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-Unit-3-Answer-Key.FINAL_.pdf)[”]() (PDF).  
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/BIO303-Unit-3-Answer-Key.FINAL_.pdf)[”]() (PDF).  
       
      Completing this assessment should take approximately 30 minutes.
 
