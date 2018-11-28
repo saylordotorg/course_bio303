@@ -570,14 +570,14 @@ id="9.3.1"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 9 Assessment”**
     Link: The Saylor Foundation’s [“Unit 9
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO303-OC-Unit-9-Quiz-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO303-OC-Unit-9-Quiz-FINAL.pdf)
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/BIO303-OC-Unit-9-Quiz-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/BIO303-OC-Unit-9-Quiz-FINAL.pdf)
     (PDF)  
       
      Instructions: Complete this quiz after working through Unit 9. The
     questions are either multiple choice, matching, or labeling
     diagrams. You can check your answers with the Saylor Foundation’s
     [“Unit 9 Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO303-OC-Unit-9-Quiz-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO303-OC-Unit-9-Quiz-Answer-Key-FINAL.pdf)
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/BIO303-OC-Unit-9-Quiz-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/BIO303-OC-Unit-9-Quiz-Answer-Key-FINAL.pdf)
     (PDF).
 
 

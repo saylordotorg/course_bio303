@@ -102,7 +102,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Vrije Universiteit, Neurosciences Research Institute: Henk J.
     Groenewegen’s [<span style="line-height: 13px;">“The Basal Ganglia
     and Motor
-    Control”</span>](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Henk-J.-Groenewegen%E2%80%99s-%E2%80%9CThe-Basal-Ganglia-and-Motor-Control%E2%80%9D.pdf)<span
+    Control”</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/Henk-J.-Groenewegen%E2%80%99s-%E2%80%9CThe-Basal-Ganglia-and-Motor-Control%E2%80%9D.pdf)<span
     style="line-height: 13px;"> (PDF) </span>  
       
      Instructions: Read this review on the basal ganglia to understand
@@ -150,7 +150,7 @@ id="6.2.1"></span> 
     Prethalamus, and Epithalamus”**
     Link: The Saylor Foundation’s [“Thalamus, Hypothalamus, Prethalamus,
     and
-    Epithalamus”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/BIO303-Subunit6.2.1-ThalamusHypothalamusPrethalamusandEpithalamus-Final.pdf) (PDF)  
+    Epithalamus”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/BIO303-Subunit6.2.1-ThalamusHypothalamusPrethalamusandEpithalamus-Final.pdf) (PDF)  
         
      Instructions: Download the PDF linked above, and read the entire
     text.
@@ -204,7 +204,7 @@ id="6.2.1"></span> 
 -   **Reading: The Saylor Foundation’s “Inferior and Superior
     Colliculi”**
     Link: The Saylor Foundation’s [“Inferior and Superior
-    Colliculi”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/BIO303-Subunit6.3.1-InferiorandSuperiorColliculi-Final.pdf) (PDF)  
+    Colliculi”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/BIO303-Subunit6.3.1-InferiorandSuperiorColliculi-Final.pdf) (PDF)  
         
      Instructions: Download the PDF linked above, and read the
     entire text.
@@ -426,14 +426,14 @@ id="6.7.1"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 6 Assessment”**
     Link: The Saylor Foundation’s [“Unit 6
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-OC-Unit-6-Quiz-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-OC-Unit-6-Quiz-FINAL.pdf)
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/BIO303-OC-Unit-6-Quiz-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/BIO303-OC-Unit-6-Quiz-FINAL.pdf)
     (PDF)  
       
      Instructions: Complete this quiz after working through Unit 6. The
     questions are either multiple choice, matching, or labeling
     diagrams. Your answers can be checked against The Saylor
     Foundation’s [“]()[Unit 6 Assessment Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-OC-Unit-6-Quiz-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/BIO303-OC-Unit-6-Quiz-Answer-Key-FINAL.pdf)
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/BIO303-OC-Unit-6-Quiz-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/BIO303-OC-Unit-6-Quiz-Answer-Key-FINAL.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 30 minutes.
